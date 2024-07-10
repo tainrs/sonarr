@@ -9,3 +9,4 @@ VERSION.json
 build.sh
 update-digests.sh
 update-versions.sh
+-test-
