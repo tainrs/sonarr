@@ -1,0 +1,14 @@
+{
+  "amd64_url": "https://github.com/Sonarr/Sonarr/releases/download/v4.0.6.1805/Sonarr.main.4.0.6.1805.linux-musl-x64.tar.gz",
+  "arm64_url": "https://github.com/Sonarr/Sonarr/releases/download/v4.0.6.1805/Sonarr.main.4.0.6.1805.linux-musl-arm64.tar.gz",
+  "branch": "main",
+  "description": "main/v4-stable",
+  "latest": true,
+  "test_amd64": true,
+  "test_arm64": true,
+  "test_url": "http://localhost:8989/system/status",
+  "upstream_digest_amd64": "",
+  "upstream_digest_arm64": "",
+  "upstream_image": "docker.io/tainrs/base",
+  "upstream_tag": "alpine"
+}
