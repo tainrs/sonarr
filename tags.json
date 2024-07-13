@@ -1,0 +1,62 @@
+{
+  "release-main": {
+    "description": "main/v4-stable",
+    "hide": false,
+    "last_updated": "2024-07-13T20:16:29.000Z",
+    "last_updated_url": "https://github.com/tainrs/sonarr/actions/runs/9922578571",
+    "latest": true,
+    "tags": [
+      "release-main",
+      "release-main-4.0.6.1805",
+      "release-main-5b4bb38"
+    ]
+  },
+  "release-master": {
+    "description": "Stable",
+    "hide": false,
+    "last_updated": "2024-07-09T12:15:25.000Z",
+    "last_updated_url": "https://github.com/tainrs/radarr/actions/runs/9856811489",
+    "latest": true,
+    "tags": [
+      "release-master",
+      "release-master-5.7.0.8882",
+      "release-master-adeec55"
+    ]
+  },
+  "update-digests-release-main": {
+    "description": "main/v4-stable",
+    "hide": false,
+    "last_updated": "2024-07-11T12:13:39.000Z",
+    "last_updated_url": "https://github.com/tainrs/sonarr/actions/runs/9891157438",
+    "latest": true,
+    "tags": [
+      "update-digests-release-main",
+      "update-digests-release-main-20240711121139",
+      "update-digests-release-main-1cbf18c"
+    ]
+  },
+  "update-digests-update-versions-release-main": {
+    "description": "main/v4-stable",
+    "hide": false,
+    "last_updated": "2024-07-11T12:13:45.000Z",
+    "last_updated_url": "https://github.com/tainrs/sonarr/actions/runs/9891158192",
+    "latest": true,
+    "tags": [
+      "update-digests-update-versions-release-main",
+      "update-digests-update-versions-release-main-4.0.6.1805",
+      "update-digests-update-versions-release-main-c2e1593"
+    ]
+  },
+  "update-versions-release-main": {
+    "description": "main/v4-stable",
+    "hide": false,
+    "last_updated": "2024-07-11T12:48:17.000Z",
+    "last_updated_url": "https://github.com/tainrs/sonarr/actions/runs/9891676205",
+    "latest": true,
+    "tags": [
+      "update-versions-release-main",
+      "update-versions-release-main-4.0.6.1805",
+      "update-versions-release-main-52e75c3"
+    ]
+  }
+}
