@@ -20,7 +20,7 @@ ENV IMAGE_STATS=${IMAGE_STATS} WEBUI_PORTS="8989/tcp,8989/udp"
 RUN apk add --no-cache libintl sqlite-libs icu-libs
 
 ARG VERSION
-ARG BRANCH
+ARG SBRANCH
 ARG AMD64_URL
 ARG PACKAGE_VERSION=${VERSION}
 
@@ -32,7 +32,7 @@ RUN set -e ;\
     rm -f "${APP_DIR}/bin/fpcalc"
 
 # Create a package_info file with version and author information
-RUN echo -e "PackageVersion=${PACKAGE_VERSION}\nPackageAuthor=[tainrs](https://github.com/tainrs)\nUpdateMethod=Docker\nBranch=${BRANCH}" > "${APP_DIR}/package_info"
+RUN echo -e "PackageVersion=${PACKAGE_VERSION}\nPackageAuthor=[tainrs](https://github.com/tainrs)\nUpdateMethod=Docker\nBranch=${SBRANCH}" > "${APP_DIR}/package_info"
 
 # Set appropriate permissions for the application directory
 RUN set -e ;\
