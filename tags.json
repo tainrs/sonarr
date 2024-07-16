@@ -2,13 +2,13 @@
   "release-main": {
     "description": "main/v4-stable",
     "hide": false,
-    "last_updated": "2024-07-15T18:23:18.000Z",
-    "last_updated_url": "https://github.com/tainrs/sonarr/actions/runs/9944568491",
+    "last_updated": "2024-07-16T10:28:20.000Z",
+    "last_updated_url": "https://github.com/tainrs/sonarr/actions/runs/9955143925",
     "latest": true,
     "tags": [
       "release-main",
-      "release-main-4.0.6.1805",
-      "release-main-8d71f74"
+      "release-main-4.0.7.1863",
+      "release-main-81e3af1"
     ]
   },
   "release-master": {
