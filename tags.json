@@ -10,5 +10,17 @@
       "release-4.0.8.1874",
       "release-eddbf25"
     ]
+  },
+  "update-versions-release": {
+    "description": "main/v4-stable",
+    "hide": false,
+    "last_updated": "2024-08-26T01:39:09.000Z",
+    "last_updated_url": "https://github.com/tainrs/sonarr/actions/runs/10552015931",
+    "latest": true,
+    "tags": [
+      "update-versions-release",
+      "update-versions-release-4.0.9.2244",
+      "update-versions-release-1235d66"
+    ]
   }
 }
