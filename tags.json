@@ -2,13 +2,13 @@
   "release": {
     "description": "main/v4-stable",
     "hide": false,
-    "last_updated": "2024-09-25T05:17:33.000Z",
-    "last_updated_url": "https://github.com/tainrs/sonarr/actions/runs/11026744117",
+    "last_updated": "2026-01-02T22:26:54.000Z",
+    "last_updated_url": "https://github.com/tainrs/sonarr/actions/runs/20667917913",
     "latest": true,
     "tags": [
       "release",
-      "release-4.0.8.1874",
-      "release-22efd1d"
+      "release-4.0.16.2944",
+      "release-b3a7b1f"
     ]
   },
   "update-versions-release": {
