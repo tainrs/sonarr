@@ -14,13 +14,13 @@
   "update-versions-release": {
     "description": "main/v4-stable",
     "hide": false,
-    "last_updated": "2024-10-26T06:20:00.000Z",
-    "last_updated_url": "https://github.com/tainrs/sonarr/actions/runs/11529569370",
+    "last_updated": "2026-01-02T22:23:13.000Z",
+    "last_updated_url": "https://github.com/tainrs/sonarr/actions/runs/20667859133",
     "latest": true,
     "tags": [
       "update-versions-release",
-      "update-versions-release-4.0.10.2544",
-      "update-versions-release-154a718"
+      "update-versions-release-4.0.16.2944",
+      "update-versions-release-bb01b0a"
     ]
   }
 }
